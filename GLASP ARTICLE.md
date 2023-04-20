@@ -11,7 +11,7 @@ The amount of information on the internet today is overwhelming, and it can be c
 - Features Of Glasp.<br/>
 - Why Choose Glasp?<br/>
 - How to get started with Glasp.<br/>
-- How to install Glasp extension in Google Chrome.<br/>
+- How to install the Glasp extension in Google Chrome.<br/>
 - How does Glasp work?<br/>
 - Conclusion. <br/>
 - FAQs.<br/>
@@ -44,7 +44,7 @@ To begin using Glasp, you must first create a Google account and install the bro
 After installing the extension, you can begin using Glasp by visiting a web page and selecting the text you want to highlight. When you select the text, a pop-up appears with the option to highlight it in different colors or add a note.<br/> 
 You can also save collections of highlighted text and notes for future reference or study.<br/>
 
-## **How to install Glasp extension in Google Chrome**<br/>
+## **How to install the Glasp extension in Google Chrome**<br/>
 
 Follow these steps to install the Glasp web highlighter: 
 1. Type "Glasp.co" in the Google Chrome address bar and you will be directed to the Glasp homepage. <br/>
