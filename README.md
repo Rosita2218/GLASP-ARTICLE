@@ -1,6 +1,16 @@
 ## **Glasp web highlighter**
  Glasp, which stands for "Greatest Legacy Accumulated as Shared Proof," is a browser extension that allows you to interact with web content more interactively and collaboratively. This repository contains an article on Glasp and how it works. <br/>
  
+ ## **Features of Glasp**
+- Highlighting text with different colours.
+- Making notes on your highlights.
+- Saving highlights for future reference.
+- Ability to share highlights with others.
+- Highlights are automatically synced across devices.
+- A search function that allows you to find specific highlighted text.
+- Adding highlights to images and videos on web pages.
+
+ 
  ### **Installation**
  To install Glasp on your browser,follow these steps;<br/>
  - Type “Glasp. co” in your browser's address bar and you will be directed to the Glasp homepage.
