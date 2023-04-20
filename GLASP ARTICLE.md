@@ -3,16 +3,17 @@
 
 ## **Introduction**<br/>
 
-The amount of information on the internet today is overwhelming, and it can be difficult to track down crucial information. Glasp, which stands for "Greatest Legacy Accumulated as Shared Proof," eliminates the need to switch between screens to highlight and organize quotes and ideas from the internet. Glasp provides access to the knowledge and experiences of other people with similar interests. In this article, we will go over the technical details of how Glasp works and the various features it provides. <br/>
+The amount of information on the internet today is overwhelming, and it can be challenging to track down crucial information. Glasp, which stands for "Greatest Legacy Accumulated as Shared Proof," eliminates the need to switch between screens to highlight and organize quotes and ideas from the internet. Glasp provides access to the knowledge and experiences of other people with similar interests. In this article, we will go over the technical details of how Glasp works and the various features it provides. <br/>
 
 ![](Glasp%20Logo.md.png) <br/>
 
 - What is Glasp?<br/>
-- Features Of Glasp<br/>
+- Features Of Glasp.<br/>
 - Why Choose Glasp?<br/>
-- How to get started with Glasp<br/>
+- How to get started with Glasp.<br/>
+- How to install Glasp extension in Google Chrome.<br/>
 - How does Glasp work?<br/>
-- Conclusion <br/>
+- Conclusion. <br/>
 
 ## **What is Glasp?**<br/>
 
@@ -38,25 +39,31 @@ Glasp's concept is to enable users to leave a lasting legacy through their actio
    
 ## **How to get started with Glasp** <br/>
 
-Getting started with Glasp is straightforward. To begin using Glasp you must first have a Google account.
-1. Type "Glasp.co" in your browser's address bar and you will be directed to the Glasp homepage. <br/>
+To begin using Glasp, you must first create a Google account and install the browser extension for your preferred browser.
+After installing the extension, you can begin using Glasp by visiting a web page and selecting the text you want to highlight. When you select the text, a pop-up appears with the option to highlight it in different colors or add a note.<br/> 
+You can also save collections of highlighted text and notes for future reference or study.<br/>
+
+## **How to install Glasp extension in Google Chrome**<br/>
+
+Follow these steps to install the Glasp web highlighter: 
+1. Type "Glasp.co" in the Google Chrome address bar and you will be directed to the Glasp homepage. <br/>
 ![](GLASP%20WEB%20SEARCH.png)<br/>
 ![](GLASP%20HOME%20PAGE.png)<br/>
 
-1. Click "Log in." <br/>
+2. Click "Log in." <br/>
    ![](GLASP%20LOG%20IN%20.png) <br/>
 
-2. Click "Continue with Google." <br/>
+3. Click "Continue with Google." <br/>
 ![](GLASP%20CONTINUE%20%20WITH%20GOOGLE.png) <br/>
 
-1. Google Chrome browser was used for this example; click "Add to Chrome." <br/>
+4. Click "Add to Chrome." <br/>
     ![](GLASP%20ADD%20TO%20CHROME.png)
 
-2. Click "Add Extension" and you will be directed to the Glasp welcome page. <br/>
+5. Click "Add Extension" and you will be directed to the Glasp welcome page. <br/>
 ![](GLASP%20ADD%20EXTENSION.png) <br/>
 ![](GLASP%20WELCOME.png) <br/>
 
-1. Click the puzzle piece in the upper right corner of the screen to pin Glasp and keep it visible in your browser at all times. <br/>  
+6. Click the puzzle piece in the upper right corner of the screen to pin Glasp and keep it visible in Google Chrome at all times. <br/>  
    ![](GLASP%20PIN.png)<br/>
    ![](GLASP%20PIN%20EXTENSION.png) <br/>
    You can now highlight web text and YouTube video transcripts, make notes on saved content and highlights, tag your highlights, and discover useful content from other users.<br/>
@@ -69,24 +76,24 @@ Once Glasp has been added as a browser extension, you can begin highlighting imp
 
 ![](GLASP%20ICON.png)<br/>
 
-1. Begin by left-clicking and dragging your mouse over the text to be highlighted; a color palette will appear for you to choose from. Different colors can be used to represent various types of information, and small notes can be written on the tabs to remind you what each one represents.<br/>
+2. Begin by left-clicking and dragging your mouse over the text to be highlighted; a color palette will appear for you to choose from. Different colors can be used to represent various types of information, and small notes can be written on the tabs to remind you what each one represents.<br/>
 ![](GLASP%20CHOOSE%20COLOR.png) <br/>
 ![](GLASP%20HIGHLIGHT.png)<br/>
 
-1. By typing in the "Page Comment" box, you can leave and save your thoughts and findings as a page comment.
+3. By typing in the "Page Comment" box, you can leave and save your thoughts and findings as a page comment.
 ![](GLAP%20PAGE%20COMMENT.png) <br/>
 
-1. To categorize and label the websites you visit, click the **"+"** sign and tag them with a specific keyword or phrase that represents the purpose they serve for easier organization and reference. After you have tagged several websites, you can easily filter and search your tags to find specific sites or groups of sites.<br/>
+4. To categorize and label the websites you visit, click the **"+"** sign and tag them with a specific keyword or phrase that represents the purpose they serve for easier organization and reference. After you have tagged several websites, you can easily filter and search your tags to find specific sites or groups of sites.<br/>
 ![](GLASP%20ADD%20TAG.png)<br/>
 
-1. To share your highlights on Twitter, Facebook, or Linkedin, click the share icon in the upper right corner of the browser and select the social media platform from the list that appears. <br/>
+5. To share your highlights on Twitter, Facebook, or Linkedin, click the share icon in the upper right corner of the browser and select the social media platform from the list that appears. <br/>
 ![](GLASP%20SHARE%20HIGHLIGHT.png)
 ![](GLASP%20SHARE%20ON%20TWITTER.png)<br/>
 
-1. Click "Copy all" to copy and paste the highlighted text in another application such as Microsoft Word or Google Docs.<br/>
+6. Click "Copy all" to copy and paste the highlighted text in another application such as Microsoft Word or Google Docs.<br/>
 ![](GLASP%20COPY%20ALL.png)<br/>
 
-1. By hovering the mouse over the bottom right edge of a highlighted section of text on a web page, you can add notes to it.<br/> To add a note, 
+7. By hovering the mouse over the bottom right edge of a highlighted section of text on a web page, you can add notes to it.<br/> To add a note, 
 - Click the pencil icon that appears.
   ![](GLASP%20ADD%20NOTE.png)<br/> 
 -  You can also hover your mouse over the section's top right corner and click on the three dots, then select "Add a note." 
