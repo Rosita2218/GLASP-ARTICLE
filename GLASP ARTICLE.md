@@ -14,6 +14,7 @@ The amount of information on the internet today is overwhelming, and it can be c
 - How to install Glasp extension in Google Chrome.<br/>
 - How does Glasp work?<br/>
 - Conclusion. <br/>
+- FAQs.<br/>
 
 ## **What is Glasp?**<br/>
 
@@ -148,7 +149,28 @@ This takes a screenshot of your screen and overlays your highlights on top of it
 1. Click the "OpenAI" logo to view an artificial intelligence summary of the Youtube video.  <br/>
 ![](GLASP%20SUMMARIZE%20CHATGPT.png)<br/>
 
-## **Conclusion**
+## **Conclusion**<br/>
 
-GLASP has the potential to transform the way we learn online by eliminating the issue of constantly losing track of important information while browsing the web due to its many potential applications in education, research, and professional development. Glasp should be considered by anyone who wants to engage more deeply with online content, whether for personal or professional reasons.
+GLASP has the potential to transform the way we learn online by eliminating the issue of constantly losing track of important information while browsing the web due to its many potential applications in education, research, and professional development. Glasp should be considered by anyone who wants to engage more deeply with online content, whether for personal or professional reasons.<br/>
+
+### **FAQs**
+
+**Q: Is it free to use the Glasp web highlighter?**<br/>
+**A:** Yes, the Glasp web highlighter is free to use.<br/>
+
+**Q: Does Glasp Web Highlighter work with all browsers and mobile devices?**<br/>
+**A:** Web Highlighter is compatible with the majority of web browsers, including Google Chrome, Mozilla Firefox, Safari, Brave, Opera, Vivaldi, and Microsoft Edge. It also works with desktop computers, laptop computers, and tablets. However, because no mobile version of the extension is currently available, there is no way to highlight web content on mobile devices.<br/>
+
+**Q: Is there a limit to the amount of text that Glasp Web Highlighter can highlight?**<br/>
+**A:** The amount of text that Glasp Web Highlighter can highlight is not limited. Although highlighting too much text at once can cause the tool to take longer to process and display all of the highlights, it can also make keeping track of all of your highlights and navigating through the highlighted content difficult.
+
+**Q: Are there Glasp Web Highlighter alternatives with comparable features and benefits?**<br/>
+**A:** Yes, you can highlight Web content, save your notes for future reference, share your highlights with others, and collaborate on research projects with several Glasp Web Highlighter alternatives. These tools each have their own set of features and advantages. Diigo, Hypothesis, Liner, and Markup are some popular options.<br/>
+
+**Q: Are there any privacy or security concerns with Glasp Web Highlighter?**<br/>
+**A:** Using a web highlighter in general may expose some of your browsing data to third-party services. It is critical to read the privacy policies of any browser extension or web app you intend to use in order to understand how your data will be used and safeguarded.<br/>
+
+**Q: Is the summary and transcript of Glasp for YouTube correct?**<br/>
+**A:** In general, automated transcript and summary tools can be useful, but they are not always 100% accurate due to the quality of the audio or content in the video. It is always a good idea to double-check the accuracy and completeness of the information provided by such tools.<br/>
+
 
