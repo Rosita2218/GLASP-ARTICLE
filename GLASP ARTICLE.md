@@ -7,14 +7,13 @@ The amount of information on the internet today is overwhelming, and it can be c
 
 ![](Glasp%20Logo.md.png) <br/>
 
-
-1. [What is Glasp?][def4]
-2. [Features Of Glasp.][def3]
-3. [Why Choose Glasp?][def5]
-4. [How to install the Glasp extension in Google Chrome.][def6]
-5. [How does Glasp work?][def]
-6. [Conclusion.][def7]
-7. [FAQs.][def2]
+1. [What is Glasp?](#what-is-glasp)
+2. [Features Of Glasp.](#features-of-glasp)
+3. [Why Choose Glasp?](#why-choose-glasp)
+4. [How to install the Glasp extension in Google Chrome.](#how-to-install-the-glasp-extension-in-google-chrome)
+5. [How does Glasp work?](#how-does-glasp-work)
+6. [Conclusion.](#conclusion)
+7. [FAQs.](#faqs)
 
 ## **What is Glasp?** <br/>
 
