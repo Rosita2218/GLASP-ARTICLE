@@ -16,11 +16,11 @@ The amount of information on the internet today is overwhelming, and it can be c
 6. [Conclusion.](#Conclusion)<br/>
 7. [FAQs.](#FAQs)<br/>
 
-## **What is Glasp?** <a name= "WhatisGlasp"></a><br/>
+## **What is Glasp?** <br/>
 
 The Glasp Web Highlighter is a free, open-source browser extension that allows users to highlight and add notes to web pages and YouTube video transcripts, explain or comment on web pages, and easily share their notes with others.<br/> Glasp is designed to completely transform how users read and interact with online content, allowing them to quickly find important information in long articles, save it for later, and share it with others via social media platforms. Its user-friendly interface and customizable settings make it simple to tailor your experience to your specific requirements.<br/>
 
- ## **Features of Glasp** <a name= "FeaturesofGlasp"></a> <br/>
+ ## **Features of Glasp** <br/>
 
 1. Highlighting text with different colours.<br/>
 2. Making notes on your highlights.<br/>
@@ -31,7 +31,7 @@ The Glasp Web Highlighter is a free, open-source browser extension that allows u
 7. A search function that allows you to find specific highlighted text.<br/>
 8. Adding highlights to images and videos on web pages.<br/>
 
- ## **Why Choose Glasp?** <a name= "WhychooseGlasp"></a>
+ ## **Why Choose Glasp?** </a>
 
 Glasp's concept is to enable users to leave a lasting legacy through their actions and accomplishments, inspiring others to pursue their own goals and positively impact the world. Glasp improves the online research experience by changing how users interact with online content.  <br/> The following are some of the benefits of using Glasp; <br/>
 1.  **Improved Collaboration and Knowledge Sharing:** One of the primary benefits of Glasp is its ability to improve collaboration among people working on a project or conducting online research. Users can highlight important information on web pages and share their insights in real-time, allowing them to better understand complex topics and gain new perspectives on difficult concepts. <br/>Users can also join groups devoted to specific topics or courses and share their notes with other participants.<br/>
@@ -39,7 +39,7 @@ Glasp's concept is to enable users to leave a lasting legacy through their actio
 3. **Increased Productivity:** Glasp offers a simple yet effective way to boost productivity while browsing the internet. It saves time to highlight important information on any web page for easier finding and referencing. Glasp streamlines workflow by eliminating the need to switch between multiple pages, tabs, or applications to take notes, increasing productivity for both individuals and teams. <br/>
 4. **Cross-Platform Compatibility:** Glasp works well with a wide range of operating systems and web browsers. This means that users can use Glasp on multiple devices, regardless of operating system or browser. This improves accessibility and convenience for users who frequently switch between devices or platforms. <br/>
 
-## **How to install the Glasp extension in Google Chrome** <a name= "installation"></a><br/>
+## **How to install the Glasp extension in Google Chrome** <br/>
 
 Follow these steps to install the Glasp web highlighter: 
 1. Type [Glasp.co](https://glasp.co/home) in the Google Chrome address bar and you will be directed to the Glasp homepage. <br/>
@@ -64,7 +64,7 @@ Follow these steps to install the Glasp web highlighter:
    ![](GLASP%20PIN%20EXTENSION.png) <br/>
    You can now highlight web text and YouTube video transcripts, make notes on saved content and highlights, tag your highlights, and discover useful content from other users.<br/>
 
-  ## **How does Glasp work?** <br/> <a name= "HowdoesGlaspwork"></a>
+  ## **How does Glasp work?** <br/>
 
 Once Glasp has been added as a browser extension, you can begin highlighting important information from web pages or YouTube videos. The steps for using Glasp for highlighting are as follows:<br/>
 
@@ -144,11 +144,11 @@ This takes a screenshot of your screen and overlays your highlights on top of it
 5. Click the `OpenAI` logo to view an artificial intelligence summary of the Youtube video.  <br/>
 ![](GLASP%20SUMMARIZE%20CHATGPT.png)<br/>
 
-## **Conclusion**<br/> <a name= "Conclusion"></a>
+## **Conclusion**<br/>
 
 GLASP has the potential to transform the way we learn online by eliminating the issue of constantly losing track of important information while browsing the web due to its many potential applications in education, research, and professional development. Glasp should be considered by anyone who wants to engage more deeply with online content, whether for personal or professional reasons.<br/>
 
-### **FAQs** <br/> <a name= "FAQs"></a>
+### **FAQs** <br/>
 
 **Q: Does Glasp Web Highlighter work with all browsers and mobile devices?**<br/>
 **A:** Web Highlighter is compatible with the majority of web browsers, including Google Chrome, Mozilla Firefox, Safari, Brave, Opera, Vivaldi, and Microsoft Edge. It also works with desktop computers, laptop computers, and tablets. However, because no mobile version of the extension is currently available, there is no way to highlight web content on mobile devices.<br/>
@@ -163,9 +163,9 @@ GLASP has the potential to transform the way we learn online by eliminating the 
 **A:** Yes, you can only highlight PDFs that are publicly accessible on the web, not your local PDFs. To do so, open the PDF file on the web, then click the `Glasp` icon to begin highlighting. You cannot highlight audio or images.<br/>
 
 **Q: Are there any privacy or security concerns with Glasp Web Highlighter?**<br/>
-**A:** Using a web highlighter in general may expose some of your browsing data to third-party services. It is critical to read the privacy policies of any browser extension or web app you intend to use to understand how your data will be used and safeguarded.<br/>
+**A:** Using a web highlighter in general may expose some of your browsing data to third-party services. It is critical to read the privacy policies of any browser extension you intend to use to understand how your data will be used and safeguarded.<br/>
 
 **Q: Is the summary and transcript of Glasp for YouTube correct?**<br/>
-**A:** In general, automated transcript and summary tools can be useful, but they are not always 100% accurate due to the quality of the audio or content in the video. It is always a good idea to double-check the accuracy and completeness of the information provided by such tools.<br/>
+**A:** The accracy of Glasp's transcript and summary of YouTube videos is dependent on the quality of the audio or content in the video. It is always a good idea to double-check for accuracy and completeness.<br/>
 
 
