@@ -151,7 +151,7 @@ GLASP has the potential to transform the way we learn online by eliminating the 
 ### **FAQs** <br/>
 
 **Q: Does Glasp Web Highlighter work with all browsers and mobile devices?**<br/>
-**A:** Web Highlighter is compatible with the majority of web browsers, including Google Chrome, Mozilla Firefox, Safari, Brave, Opera, Vivaldi, and Microsoft Edge. It also works with desktop computers, laptop computers, and tablets. However, because no mobile version of the extension is currently available, there is no way to highlight web content on mobile devices.<br/>
+**A:** Glasp is compatible with the majority of web browsers, including Google Chrome, Mozilla Firefox, Safari, Brave, Opera, Vivaldi, and Microsoft Edge. It also works with desktop computers, laptop computers, and tablets. However, because no mobile version of the extension is currently available, there is no way to highlight web content on mobile devices.<br/>
 
 **Q: Is there a limit to the amount of text that Glasp Web Highlighter can highlight?**<br/>
 **A:** The amount of text that Glasp Web Highlighter can highlight is not limited. Although highlighting too much text at once can cause the tool to take longer to process and display all of the highlights, it can also make keeping track of all of your highlights and navigating through the highlighted content difficult.
