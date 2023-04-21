@@ -10,8 +10,8 @@ The amount of information on the internet today is overwhelming, and it can be c
 
 1. [What is Glasp?](#WhatisGlasp)<br/>
 2. [Features Of Glasp.](#FeaturesofGlasp)<br/>
-3. [Why Choose Glasp?](WhychooseGlasp)<br/>
-4. [How to install the Glasp extension in Google Chrome.](Installation)<br/>
+3. [Why Choose Glasp?](#WhychooseGlasp)<br/>
+4. [How to install the Glasp extension in Google Chrome.](#Installation)<br/>
 5. [How does Glasp work?](#HowdoesGlaspwork)<br/>
 6. [Conclusion.](#Conclusion)<br/>
 7. [FAQs.](#FAQs)<br/>
