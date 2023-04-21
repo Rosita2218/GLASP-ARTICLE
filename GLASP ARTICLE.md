@@ -8,13 +8,13 @@ The amount of information on the internet today is overwhelming, and it can be c
 ![](Glasp%20Logo.md.png) <br/>
 
 
-1. [What is Glasp?](#WhatisGlasp)
-2. [Features Of Glasp.](#FeaturesofGlasp)
-3. [Why Choose Glasp?](#WhychooseGlasp)
-4. [How to install the Glasp extension in Google Chrome.](#Installation)
-5. [How does Glasp work?](#HowdoesGlaspwork)
-6. [Conclusion.](#Conclusion)
-7. [FAQs.](#FAQs)
+1. [What is Glasp?][def4]
+2. [Features Of Glasp.][def3]
+3. [Why Choose Glasp?][def5]
+4. [How to install the Glasp extension in Google Chrome.][def6]
+5. [How does Glasp work?][def]
+6. [Conclusion.][def7]
+7. [FAQs.][def2]
 
 ## **What is Glasp?** <br/>
 
@@ -169,3 +169,12 @@ GLASP has the potential to transform the way we learn online by eliminating the 
 **A:** The accracy of Glasp's transcript and summary of YouTube videos is dependent on the quality of the audio or content in the video. It is always a good idea to double-check for accuracy and completeness.<br/>
 
 
+
+
+[def]: #HowdoesGlaspwork
+[def2]: #FAQs
+[def3]: #FeaturesofGlasp
+[def4]: #WhatisGlasp
+[def5]: #WhychooseGlasp
+[def6]: #Installation
+[def7]: #Conclusion
