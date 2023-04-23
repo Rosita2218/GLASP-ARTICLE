@@ -13,7 +13,6 @@ The amount of information on the internet today is overwhelming, and it can be c
 4. [How to install the Glasp extension in Google Chrome.](#how-to-install-the-glasp-extension-in-google-chrome)
 5. [How does Glasp work?](#how-does-glasp-work)
 6. [Conclusion.](#conclusion)
-7. [FAQs.](#faqs)
 
 ## What is Glasp? <a name="what-is-glasp"></a>
 
@@ -146,26 +145,3 @@ This takes a screenshot of your screen and overlays your highlights on top of it
 ## Conclusion <a name="conclusion"></a>
 
 GLASP has the potential to transform the way we learn online by eliminating the issue of constantly losing track of important information while browsing the web due to its many potential applications in education, research, and professional development. Glasp should be considered by anyone who wants to engage more deeply with online content, whether for personal or professional reasons.<br/>
-
-## FAQs <a name="faqs"></a>
-
-**Q: Does Glasp work with all browsers and mobile devices?**<br/>
-**A:** Glasp works with the majority of web browsers, including Google Chrome, Mozilla Firefox, Safari, Brave, Opera, Vivaldi, and Microsoft Edge. It also works with desktop computers, laptop computers, and tablets. However, because there is currently no mobile version of Glasp available, there is no way to highlight web content on mobile devices with Glasp..<br/>
-
-**Q: Is there a limit to the amount of text that Glasp can highlight?**<br/>
-**A:** Glasp has no limit to the amount of text that can be highlighted. Too much text highlighted at once may cause the tool to take longer to display all of the highlights and make tracking them difficult.
-
-**Q: Are there Glasp alternatives?**<br/>
-**A:** Yes, with several Glasp alternatives, you can highlight Web content, save your notes, share your highlights with others, and collaborate on research projects. Some popular options include Diigo, Hypothesis, Liner, and Markup.<br/>
-
-**Q: Can I highlight or save other file types like PDFs, images, and audio using Glasp?**<br/>
-**A:** Yes, you can only highlight PDFs that are publicly accessible on the web, not your local PDFs. To do so, open the PDF file on the web, then click the `Glasp` icon to begin highlighting. You cannot highlight audio or images.<br/>
-
-**Q: Are there any privacy or security concerns with Glasp?**<br/>
-**A:** In general, using a web highlighter may expose some of your browsing data to third-party. Read the privacy policies of any browser extension you intend to use to understand how your data will be used and protected.<br/>
-
-**Q: Is the summary and transcript of Glasp for YouTube correct?**<br/>
-**A:** The accracy of Glasp's transcript and summary of YouTube videos is dependent on the quality of the audio or content in the video. It is always a good idea to double-check for accuracy and completeness.<br/>
-
-
-
