@@ -149,19 +149,19 @@ GLASP has the potential to transform the way we learn online by eliminating the 
 
 ## FAQs <a name="faqs"></a>
 
-**Q: Does Glasp Web Highlighter work with all browsers and mobile devices?**<br/>
+**Q: Does Glasp work with all browsers and mobile devices?**<br/>
 **A:** Glasp works with the majority of web browsers, including Google Chrome, Mozilla Firefox, Safari, Brave, Opera, Vivaldi, and Microsoft Edge. It also works with desktop computers, laptop computers, and tablets. However, because there is currently no mobile version of Glasp available, there is no way to highlight web content on mobile devices with Glasp..<br/>
 
-**Q: Is there a limit to the amount of text that Glasp Web Highlighter can highlight?**<br/>
+**Q: Is there a limit to the amount of text that Glasp can highlight?**<br/>
 **A:** Glasp has no limit to the amount of text that can be highlighted. Too much text highlighted at once may cause the tool to take longer to display all of the highlights and make tracking them difficult.
 
-**Q: Are there Glasp Web Highlighter alternatives with comparable features and benefits?**<br/>
+**Q: Are there Glasp alternatives?**<br/>
 **A:** Yes, with several Glasp alternatives, you can highlight Web content, save your notes, share your highlights with others, and collaborate on research projects. Some popular options include Diigo, Hypothesis, Liner, and Markup.<br/>
 
-**Q: Can I highlight or save other file types like PDFs, images, and audio?**<br/>
+**Q: Can I highlight or save other file types like PDFs, images, and audio using Glasp?**<br/>
 **A:** Yes, you can only highlight PDFs that are publicly accessible on the web, not your local PDFs. To do so, open the PDF file on the web, then click the `Glasp` icon to begin highlighting. You cannot highlight audio or images.<br/>
 
-**Q: Are there any privacy or security concerns with Glasp Web Highlighter?**<br/>
+**Q: Are there any privacy or security concerns with Glasp?**<br/>
 **A:** In general, using a web highlighter may expose some of your browsing data to third-party. Read the privacy policies of any browser extension you intend to use to understand how your data will be used and protected.<br/>
 
 **Q: Is the summary and transcript of Glasp for YouTube correct?**<br/>
