@@ -1,4 +1,4 @@
-# **Glasp: An Novel Approach To Efficient And Collaborative Online Learning**<br/>
+# **Glasp: A Novel Approach To Efficient And Collaborative Online Learning**<br/>
 **Rosita Nkonye Nwosu**<br/>
 
 ## **Introduction**<br/>
